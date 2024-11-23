@@ -10,17 +10,12 @@ This project is a web application designed to colorize Synthetic Aperture Radar 
 ## Tech Stack  
 ### Frontend:  
 - React.js  
-- HTML5, CSS3  
-- Material-UI (optional, if used)  
+- HTML5, CSS3   
 
 ### Backend & Model Integration:  
 - Python  
 - TensorFlow/Keras  
-- Flask (or REST APIs, if applicable)  
-
-### Deployment:  
-- Docker (if used)  
-- Hosting platforms like Netlify, Heroku, or AWS  
+- Flask 
 
 ## Project Structure  
 ```bash
